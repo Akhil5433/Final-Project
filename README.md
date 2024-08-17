@@ -1,4 +1,6 @@
+
 **Instructions to execute**
+chmod +x sha256.cpp
 g++ -o sha256 sha256.cpp
 ./sha256
 
